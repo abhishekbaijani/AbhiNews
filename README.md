@@ -1,6 +1,6 @@
 # news_app_flutter
 
-A new Flutter project which consume news api
+News appication which consume news api newsapi.org
 
 ## Getting Started
 
