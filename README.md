@@ -2,9 +2,9 @@
 
 News appication which consume news api newsapi.org
 
-## Getting Started
+Language: Dart
 
-This project is a starting point for a Flutter application.
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
